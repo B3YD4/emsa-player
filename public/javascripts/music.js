@@ -19,7 +19,7 @@ prevBtn.style.display = "none";
 nextBtn.style.display = "none";
 
 // Song titles
-const songs = ['Duman - Dibine Kadar', 'Duman - Herşeyi Yak','Yaşlı Amca - İstanbul Beyefendisi' ,'Katy Perry - ET'];
+const songs = ['Duman - Dibine Kadar', 'Duman - Herşeyi Yak','Yaşlı Amca - İstanbul Beyefendisi' ,'Katy Perry - ET', 'Duman - Eski Köprünün Altında'];
 
 // Keep track of song
 let songIndex = 0;
